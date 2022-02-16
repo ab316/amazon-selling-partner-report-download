@@ -1,5 +1,5 @@
 # amazon-selling-partner-report-download
-Downloads and decrypts an Amazon Selling Partner report
+Downloads and decrypts an Amazon Selling Partner report. It uses the response from the [getReportDocument](https://developer-docs.amazon.com/sp-api/docs/reports-api-v2020-09-01-reference#get-reports2020-09-04documentsreportdocumentid) operation to donwload the report
 
 This is a quick and dirty utility but it does the job.
 
