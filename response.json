@@ -1,0 +1,12 @@
+{
+  "payload": {
+    "reportDocumentId": "some report id",
+    "compressionAlgorithm": "GZIP",
+    "encryptionDetails": {
+      "standard": "AES",
+      "initializationVector": "T4QVxZFyO6fU9W/p9vmm0g==",
+      "key": "CDPtqQlx0hDBD+7hfqErkKCqIGyYVetCQGZpVobtyJY="
+    },
+    "url": "URL of the report goes here"
+  }
+}
